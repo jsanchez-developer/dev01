@@ -1,0 +1,19 @@
+{
+  "name": "dev.project01",
+  "version": "1.0.0",
+  "description": "\"# dev.project01\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsanchez-developer/dev.project01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsanchez-developer/dev.project01/issues"
+  },
+  "homepage": "https://github.com/jsanchez-developer/dev.project01#readme"
+}
